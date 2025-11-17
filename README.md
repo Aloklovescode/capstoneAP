@@ -1,4 +1,4 @@
-# Production – Smart Kanban Project Management App
+# Productio – Smart Kanban Project Management App
 
 A modern, full-stack project management platform designed to help teams organize tasks, collaborate efficiently, and visualize workflows using draggable Kanban boards — now enhanced with advanced search, sorting, filtering, and pagination functionalities.
 
